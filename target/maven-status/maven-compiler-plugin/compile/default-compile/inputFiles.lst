@@ -1,0 +1,11 @@
+C:\JMproject\preproj2Hiber\src\main\java\servlets\AddServlet.java
+C:\JMproject\preproj2Hiber\src\main\java\dao\UserHibernateDao.java
+C:\JMproject\preproj2Hiber\src\main\java\servlets\ListServlet.java
+C:\JMproject\preproj2Hiber\src\main\java\util\DBHelper.java
+C:\JMproject\preproj2Hiber\src\main\java\model\User.java
+C:\JMproject\preproj2Hiber\src\main\java\servlets\EditServlet.java
+C:\JMproject\preproj2Hiber\src\main\java\service\UserService.java
+C:\JMproject\preproj2Hiber\src\main\java\dao\IUserDao.java
+C:\JMproject\preproj2Hiber\src\main\java\service\UserServiceJdbc.java
+C:\JMproject\preproj2Hiber\src\main\java\dao\UserJdbcDao.java
+C:\JMproject\preproj2Hiber\src\main\java\servlets\DeleteServlet.java
